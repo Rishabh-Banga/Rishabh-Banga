@@ -2,13 +2,13 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=rishabhbanga&color=blue&style=flat-square)](https://github.com/rishabhbanga)
 
-## Full Stack Developer
+## Software Engineer / Developer / Aspiring Data Scientist
 
-> Full Stack Developer with mid-level experience building scalable, AI-augmented web applications and a strong, hands-on transition into Generative AI development. Combines production full-stack experience (React, TypeScript, Python, AWS) with practical exposure to LLM integration, prompt engineering, agentic AI workflows, and vector databases. Eager to apply this combined full-stack and GenAI skill set to build production-grade AI assistants and enterprise knowledge-search solutions.
+> I build software that works — APIs, dashboards, full-stack web apps, and data pipelines that real users depend on. I'm a Software Engineer, I've shipped and maintained production systems across the full stack using Python, JavaScript/React, Node, SQL, and AWS. My background spans backend API development, data analysis, and frontend engineering — which means I can own a feature end-to-end, not just one slice of it.
 
 ### 🏢 Experience
 
-- Currently at ****
+- Looking for Opportunities
 - Based in **Noida, India**
 
 ### 🛠️ Tech Stack
